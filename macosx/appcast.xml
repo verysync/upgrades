@@ -10,10 +10,10 @@
 			<sparkle:releaseNotesLink>http://forum.verysync.com/thread-1-1-1.html</sparkle:releaseNotesLink>
 			<pubDate>Sun, 16 Okt 2016 17:11:00 GMT+2</pubDate>
 			<enclosure
-					sparkle:shortVersionString="0.1.1"
-					sparkle:version="011"
+					sparkle:shortVersionString="0.0.1"
+					sparkle:version="001"
 					type="application/octet-stream"
-					url="https://raw.githubusercontent.com/verysync/upgrades/master/macosx/releases/v_v011.dmg"
+					url="https://raw.githubusercontent.com/verysync/upgrades/master/macosx/releases/verysync_v001.dmg"
 			/>
 		</item>
 		
