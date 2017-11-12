@@ -6,6 +6,17 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>en</language>
 		<item>
+			<title>Version 0.1.1</title>
+			<sparkle:releaseNotesLink>http://forum.verysync.com/thread-1-1-1.html</sparkle:releaseNotesLink>
+			<pubDate>Sun, 16 Okt 2016 17:11:00 GMT+2</pubDate>
+			<enclosure
+					sparkle:shortVersionString="0.1.1"
+					sparkle:version="011"
+					type="application/octet-stream"
+					url="https://github.com/verysync/upgrades/tree/master/macosx/releases/微力同步_v011.dmg"
+			/>
+		</item>
+		<item>
                         <title>Version 0.0.1</title>
                         <sparkle:releaseNotesLink>http://forum.verysync.com/thread-1-1-1.html</sparkle:releaseNotesLink>
                         <pubDate>Sun, 16 Okt 2016 17:11:00 GMT+2</pubDate>
