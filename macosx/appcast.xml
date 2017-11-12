@@ -3,11 +3,11 @@
 <channel>
 	<title>微力同步</title>
 	<item>
-		<title>0.0.1</title>
+		<title>0.1.1</title>
 		<pubDate>周日, 12 11月 2017 21:22:19 +0800</pubDate>
 		<sparkle:releaseNotesLink>http://forum.verysync.com/thread-1-1-1.html</sparkle:releaseNotesLink>
 		<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-		<enclosure url="https://raw.githubusercontent.com/verysync/upgrades/master/macosx/releases/verysync_v001.dmg" sparkle:version="001" sparkle:shortVersionString="0.0.1" length="8497899" type="application/octet-stream" sparkle:dsaSignature="MC0CFH8DLDv6tVMqS57xl+BIY75eCDboAhUAgfdM++a5ngYZ4yeovXA3dRMPWVk="/>
+		<enclosure url="https://raw.githubusercontent.com/verysync/upgrades/master/macosx/releases/verysync_v001.dmg" sparkle:version="010" sparkle:shortVersionString="0.1.0" length="8497899" type="application/octet-stream" sparkle:dsaSignature="MC0CFH8DLDv6tVMqS57xl+BIY75eCDboAhUAgfdM++a5ngYZ4yeovXA3dRMPWVk="/>
 	</item>
 </channel>
 </rss>
