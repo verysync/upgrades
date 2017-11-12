@@ -16,16 +16,6 @@
 					url="https://github.com/verysync/upgrades/tree/master/macosx/releases/微力同步_v011.dmg"
 			/>
 		</item>
-		<item>
-                        <title>Version 0.0.1</title>
-                        <sparkle:releaseNotesLink>http://forum.verysync.com/thread-1-1-1.html</sparkle:releaseNotesLink>
-                        <pubDate>Sun, 16 Okt 2016 17:11:00 GMT+2</pubDate>
-                        <enclosure
-                                   sparkle:shortVersionString="0.0.1"
-                                   sparkle:version="001"
-                                   type="application/octet-stream"
-                                   url="https://github.com/verysync/upgrades/tree/master/macosx/releases/微力同步.dmg"
-                        />
-        </item>
+		
 	</channel>
 </rss>
